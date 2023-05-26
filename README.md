@@ -28,6 +28,26 @@ Please subscribe for more tips and frontend development tutorials.
 
 
 
+-----------------------------------------------------
+
+
+<img width="400" alt="Screen Shot 2023-05-26 at 9 59 38 AM" src="https://github.com/Marjory00/portweb/assets/27757805/34802d0c-aec4-4d2f-820a-c2b9a96c9c2a">
+
+<img width="400" alt="Screen Shot 2023-05-26 at 9 59 45 AM" src="https://github.com/Marjory00/portweb/assets/27757805/96f2321f-1523-428c-9e99-838c1e50efca">
+
+<img width="400" alt="Screen Shot 2023-05-26 at 9 59 52 AM" src="https://github.com/Marjory00/portweb/assets/27757805/43ea2d93-fe16-432a-99f7-9adfb8de4385">
+
+
+<img width="400" alt="Screen Shot 2023-05-26 at 10 00 01 AM" src="https://github.com/Marjory00/portweb/assets/27757805/171d5c4f-e95d-4de7-b7af-29fc2622344c">
+
+<img width="400" alt="Screen Shot 2023-05-26 at 10 00 09 AM" src="https://github.com/Marjory00/portweb/assets/27757805/3c7d70c8-c175-4884-884d-eaa5893b9180">
+
+<img width="400" alt="Screen Shot 2023-05-26 at 10 00 16 AM" src="https://github.com/Marjory00/portweb/assets/27757805/94961279-7511-4d66-8866-f31d58ec54f4">
+
+
+<img width="400" alt="Screen Shot 2023-05-26 at 10 00 24 AM" src="https://github.com/Marjory00/portweb/assets/27757805/7728be19-c1b7-476b-91d0-33059db31015">
+
+
 
 ______________________________________________________
 ______________________________________________________
